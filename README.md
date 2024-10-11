@@ -3,6 +3,6 @@
 <p><em>Software Engineer at <a href="https://afi.team/team/">Netcompany</a> . </em>
 
 <h4> Latest Blog Posts: </h4>
-
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 -----
